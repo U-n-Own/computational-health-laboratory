@@ -1,0 +1,16 @@
+*.Rhistory
+*.Rapp.history
+*.RData
+*.Rproj.user/
+
+*_cache/
+*_files/
+
+*.DS_Store
+
+*.bak
+*.swp
+*~
+
+*.Renviron
+
